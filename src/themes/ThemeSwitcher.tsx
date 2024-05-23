@@ -18,7 +18,7 @@ export default function ThemeSwitcher() {
             fill="currentColor"
           />
         </svg>
-        <span>Tema</span>
+        <span className="hidden md:inline">Tema</span>
       </div>
       <ul
         tabIndex={0}

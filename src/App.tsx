@@ -6,7 +6,6 @@ function App() {
   return (
     <>
       <BaseLayout>
-        <h1>Vite + React</h1>
         <Slider />
       </BaseLayout>
     </>
