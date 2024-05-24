@@ -6,12 +6,15 @@ export default function Sidebar() {
         aria-label="close sidebar"
         className="drawer-overlay"
       ></label>
-      <ul className="menu p-4 w-80 min-h-full bg-primary pt-28">
+      <ul className="menu p-4 w-80 min-h-full bg-primary pt-12">
         <li>
-          <a>Sidebar Item 1</a>
+          <a>Más populares</a>
         </li>
         <li>
-          <a>Sidebar Item 2</a>
+          <a>Novedades</a>
+        </li>
+        <li>
+          <a>Ofertas</a>
         </li>
       </ul>
     </div>

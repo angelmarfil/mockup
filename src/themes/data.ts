@@ -20,4 +20,24 @@ export const themes: ITheme[] = [
     id: 3,
     name: "synthwave",
   },
+  {
+    id: 4,
+    name: "valentine",
+  },
+  {
+    id: 5,
+    name: "lemonade",
+  },
+  {
+    id: 6,
+    name: "nord",
+  },
+  {
+    id: 7,
+    name: "black",
+  },
+  {
+    id: 8,
+    name: "garden",
+  },
 ];
