@@ -41,7 +41,7 @@ const data = [
 
 export default function CardList() {
   return (
-    <div className="flex gap-y-4 w-full justify-evenly flex-wrap">
+    <div className="flex gap-y-4 w-full justify-evenly flex-wrapm p-10">
       {data.map((game) => (
         <Card cover={game.cover} title={game.title} price={game.price} />
       ))}
